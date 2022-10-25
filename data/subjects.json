@@ -4,55 +4,113 @@
     "title": "Chemistry 1st Paper",
     "img": "https://i.ibb.co/Y8C2k4V/chem1.png",
     "lec": 15,
-    "price": 2000
+    "price": 2000,
+    "des": "",
+    "quiz": 15,
+    "Test": 5,
+    "instructor": {
+      "name": "Kazi Israt Faria",
+      "edu": "Dept. of Pharmacy",
+      "Ins": "University of Chittagong"
+    },
+    "chap": 5
   },
   {
     "id": "che_02",
     "title": "Chemistry 2nd Paper",
     "img": "https://i.ibb.co/3zg2s45/chem2.png",
     "lec": 17,
-    "price": 2500
+    "price": 2500,
+    "Test": 7,
+    "instructor": {
+      "name": "Ashiquzzaman Ashiq",
+      "edu": "Dept. of Applied Chemistry",
+      "Ins": "University of Rajshahi"
+    },
+    "chap": 5
   },
   {
     "id": "phy_1",
     "title": "Physics 1st Paper",
     "img": "https://i.ibb.co/Lz90BY7/phy1.png",
     "lec": 30,
-    "price": 3500
+    "price": 3500,
+    "Test": 10,
+    "instructor": {
+      "name": "Fahim Foysal Shuvo",
+      "edu": "Mechanical Engineering",
+      "Ins": "Cuet"
+    },
+    "chap": 10
   },
   {
     "id": "phy_2",
     "title": "Physics 2nd Paper",
     "img": "https://i.ibb.co/zPWzDtN/phy2.png",
     "lec": 37,
-    "price": 3500
+    "price": 3500,
+    "Test": 11,
+    "instructor": {
+      "name": "Sazzad Parvez Shuvo",
+      "edu": "Civil Engineering",
+      "Ins": "Buet"
+    },
+    "chap": 11
   },
   {
     "id": "Math_1",
     "title": "Mathematics 1st Paper",
     "img": "https://i.ibb.co/BGxkwdR/math1.png",
     "lec": 39,
-    "price": 4000
+    "price": 4000,
+    "Test": 12,
+    "instructor": {
+      "name": "Md. Abul Hayat",
+      "edu": "Dept. of Mathematics",
+      "Ins": "University of Chittagong"
+    },
+    "chap": 10
   },
   {
     "id": "Math_2",
     "title": "Mathematics 2nd Paper",
     "img": "https://i.ibb.co/0ck6rfW/math3.png",
     "lec": 35,
-    "price": 3800
+    "price": 3800,
+    "Test": 11,
+    "instructor": {
+      "name": "Rashedul Karim",
+      "edu": "Dept. of Applied Mathematics",
+      "Ins": "University of Rajshahi"
+    },
+    "chap": 10
   },
   {
     "id": "Bio_1",
     "title": "Biology 1st Paper",
     "img": "https://i.ibb.co/0ck6rfW/math3.png",
     "lec": 32,
-    "price": 3000
+    "price": 3000,
+    "Test": 11,
+    "instructor": {
+      "name": "Maisha Intesar Jannat",
+      "edu": "Dept. of Botany",
+      "Ins": "University of Dhaka"
+    },
+    "chap": 10
   },
   {
     "id": "Bio_2",
     "title": "Biology 2nd Paper",
     "img": "https://i.ibb.co/zsT5L9K/bio2.png",
     "lec": 34,
-    "price": 3500
+    "price": 3500,
+    "Test": 12,
+    "instructor": {
+      "name": "Rokonuzzaman Rokon",
+      "edu": "Dept. of Zoology",
+      "Ins": "University of Dhaka"
+    },
+    "chap": 10
   }
 ]
