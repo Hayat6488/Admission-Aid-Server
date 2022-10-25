@@ -1,0 +1,58 @@
+[
+  {
+    "id": "che_01",
+    "title": "Chemistry 1st Paper",
+    "img": "https://i.ibb.co/Y8C2k4V/chem1.png",
+    "lec": 15,
+    "price": 2000
+  },
+  {
+    "id": "che_02",
+    "title": "Chemistry 2nd Paper",
+    "img": "https://i.ibb.co/3zg2s45/chem2.png",
+    "lec": 17,
+    "price": 2500
+  },
+  {
+    "id": "phy_1",
+    "title": "Physics 1st Paper",
+    "img": "https://i.ibb.co/Lz90BY7/phy1.png",
+    "lec": 30,
+    "price": 3500
+  },
+  {
+    "id": "phy_2",
+    "title": "Physics 2nd Paper",
+    "img": "https://i.ibb.co/zPWzDtN/phy2.png",
+    "lec": 37,
+    "price": 3500
+  },
+  {
+    "id": "Math_1",
+    "title": "Mathematics 1st Paper",
+    "img": "https://i.ibb.co/BGxkwdR/math1.png",
+    "lec": 39,
+    "price": 4000
+  },
+  {
+    "id": "Math_2",
+    "title": "Mathematics 2nd Paper",
+    "img": "https://i.ibb.co/0ck6rfW/math3.png",
+    "lec": 35,
+    "price": 3800
+  },
+  {
+    "id": "Bio_1",
+    "title": "Biology 1st Paper",
+    "img": "https://i.ibb.co/0ck6rfW/math3.png",
+    "lec": 32,
+    "price": 3000
+  },
+  {
+    "id": "Bio_2",
+    "title": "Biology 2nd Paper",
+    "img": "https://i.ibb.co/zsT5L9K/bio2.png",
+    "lec": 34,
+    "price": 3500
+  }
+]
