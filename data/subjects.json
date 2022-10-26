@@ -5,11 +5,11 @@
     "img": "https://i.ibb.co/Y8C2k4V/chem1.png",
     "lec": 15,
     "price": 2000,
-    "des": "",
+    "des": "This course is designed for all kinds of students. It will help them to Solve MCQ's within a minute. It is specially designed for varsity admission preparation. Designed by the students of renowned varsities. It has 15 Lectures to complete book revision. Including 15 quizes. These will help to imrpove them. It has 5 test based on chapters. These will make ta prep perfect.",
     "quiz": 15,
     "Test": 5,
     "instructor": {
-      "name": "Kazi Israt Faria",
+      "name": "Ahnuf Zaman Tomal",
       "edu": "Dept. of Pharmacy",
       "Ins": "University of Chittagong"
     },
@@ -21,6 +21,8 @@
     "img": "https://i.ibb.co/3zg2s45/chem2.png",
     "lec": 17,
     "price": 2500,
+    "des": "This course has an special outline designed for varsity admission preparation. Designed by the students of renowned varsities. It has 17 Lectures to complete book revision. Including 17 quizes. These will help to imrpove them. It has 7 test based on chapters. These will make ta prep perfect.",
+    "quiz": 17,
     "Test": 7,
     "instructor": {
       "name": "Ashiquzzaman Ashiq",
@@ -35,6 +37,8 @@
     "img": "https://i.ibb.co/Lz90BY7/phy1.png",
     "lec": 30,
     "price": 3500,
+    "des": "This course instructor Fahim Foysal Shuvo has designed this course for varsity admission preparation. It has 30 Lectures to complete book revision. Including 30 quizes. These will help to imrpove them. It has 10 test based on chapters. These will make ta prep perfect.",
+    "quiz": 30,
     "Test": 10,
     "instructor": {
       "name": "Fahim Foysal Shuvo",
@@ -49,6 +53,8 @@
     "img": "https://i.ibb.co/zPWzDtN/phy2.png",
     "lec": 37,
     "price": 3500,
+    "des": "This course has an special outline designed for varsity admission preparation in Physics. Designed by the students of renowned varsities. It has 37 Lectures to complete book revision. Including 37 quizes. These will help to imrpove them. It has 11 test based on chapters. These will make ta prep perfect.",
+    "quiz": 37,
     "Test": 11,
     "instructor": {
       "name": "Sazzad Parvez Shuvo",
@@ -63,6 +69,8 @@
     "img": "https://i.ibb.co/BGxkwdR/math1.png",
     "lec": 39,
     "price": 4000,
+    "des": "This course has an special outline to ensure math 1. It has main lec part and separate lec part for calculus to improve students ability. It has 39 Lectures to complete book revision. Including 39 quizes. These will help to imrpove them. It has 12 test based on chapters. These will make ta prep perfect.",
+    "quiz": 39,
     "Test": 12,
     "instructor": {
       "name": "Md. Abul Hayat",
@@ -77,6 +85,8 @@
     "img": "https://i.ibb.co/0ck6rfW/math3.png",
     "lec": 35,
     "price": 3800,
+    "des": "This course has an special outline designed for varsity admission preparation. Designed by the students of renowned varsities. It has 35 Lectures to complete book revision. Including 35 quizes. These will help to imrpove them. It has 7 test based on chapters. These will make ta prep perfect.",
+    "quiz": 35,
     "Test": 11,
     "instructor": {
       "name": "Rashedul Karim",
@@ -91,6 +101,8 @@
     "img": "https://i.ibb.co/0ck6rfW/math3.png",
     "lec": 32,
     "price": 3000,
+    "des": "This course has an special outline designed for varsity admission preparation. Designed by the students of renowned varsities. It has 32 Lectures to complete book revision. Including 32 quizes. These will help to imrpove them. It has 7 test based on chapters. These will make ta prep perfect.",
+    "quiz": 32,
     "Test": 11,
     "instructor": {
       "name": "Maisha Intesar Jannat",
@@ -105,6 +117,8 @@
     "img": "https://i.ibb.co/zsT5L9K/bio2.png",
     "lec": 34,
     "price": 3500,
+    "des": "This course is designed for all kinds of students. It will help them to Solve MCQ's within a minute. It is specially designed for varsity admission preparation. Designed by the students of renowned varsities. It has 34 Lectures to complete book revision. Including 34 quizes. These will help to imrpove them. It has 5 test based on chapters. These will make ta prep perfect.",
+    "quiz": 34,
     "Test": 12,
     "instructor": {
       "name": "Rokonuzzaman Rokon",
